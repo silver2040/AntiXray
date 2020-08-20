@@ -1,0 +1,8 @@
+main: com.silver2040.anti_xray.Main
+name: antixray
+version: 0.0.1
+api-version: 1.16
+commands:
+  xray:
+    description: turns on xray detector
+    usage: /xray
